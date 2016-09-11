@@ -1,60 +1,18 @@
-% Linux Structure and GUI
+% Linux Graphical User Interface
 % SEIE, Soochow University
-% Week 02, 2015-2016-1
+% Week 02, 2016-2017-1
 
-# Linux Structure
+# Review
 
-## Basics
+## Notes
 
-* Partitions
+> * github
+> * fork
+> * gitbook
+> * output
+> * Lab tasks
 
-* Filesystems
-
-* Boot Process
-
-## Partition and Filesystem
-
-* Partition: Logical part of a disk
-    - MBR
-    - GPT
-
-* Filesystem: Method of storing files
-    - FAT32, NTFS, ext4, XFS, ubifs, tmpfs
-
-* Volumes
-
----
-
-            Windows         Linux
-----------  --------        ------
-Partition   Simple Volume1  /dev/sda1
-Filesystem  NTFS/FAT32      EXT4/XFS...
-Mounting    DriverLetter    MountPoint
-Path sep.   \\              /
-Names       case-insens.    case-sensitive
-
----
-
-## Filesystem Hierarchy Standard
-
-![Directory Tree](res/chapter03_flowchart_scr05.jpg)
-
-## Boot Process
-
-* BIOS -> MBR
-* EFI/UEFI -> EFI partition
-
----
-
-![Boot Sequence](res/bootsequence.png)
-
----
-
-![Boot Process](res/chapter03_flowchart_scr15_1.jpg)
-
----
-
-![Boot Diagram](res/rhce_linux_boot_diagram.png)
+# Q&A
 
 ## Text-Mode
 
@@ -90,3 +48,11 @@ Names       case-insens.    case-sensitive
 >     - <http://www.linuxalt.com/>
 >     - <http://is.gd/qycNuv>
 >     - <http://is.gd/taL29E>
+
+## Tasks
+
+> * catch-up
+> * Self-teaching
+> * [Introduction to Linux](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-0)
+> * Chapter 2--4 (ch. 5 is expected)
+> * WRITING
