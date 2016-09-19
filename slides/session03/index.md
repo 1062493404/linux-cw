@@ -84,4 +84,4 @@ Online IDE, More than hosts
 ## Tasks
 
 > * 快乐的Linux命令行 ch. 1--4
-> * MOOC: [Introduction to Linux](ch. 5--8)
+> * MOOC: [Introduction to Linux](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-0) ch. 5--8
